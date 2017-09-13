@@ -1,0 +1,1 @@
+/Users/User/fb/fb/tmp/funnel-input_base_path-EPMXX8E7.tmp/fake_xml_http_request.js
